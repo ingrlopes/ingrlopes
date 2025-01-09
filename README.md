@@ -9,9 +9,6 @@
 → Ciência da Computação - USJT;
 
 → Atualmente estou aprimorando meu conhecimento na área de programação e dados, com a ajuda de alguns cursos extracurriculares.
-<p align="center">
-  <img src="https://sdk.bitmoji.com/me/sticker/GL5QdXFJQ93~w~kDGun5oCATyVeig0bGqzyNqTVZDdeG0plxrmP3~Q/20079939.png?p=dD1wO3Y9cG9wdWxhcjtsPXB0X1BU.v1&size=thumbnail width="50">
-</p>
 
 ## 🔎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ingrid-lopes-29a251274/)
